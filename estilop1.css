@@ -1,0 +1,293 @@
+.resolucion{
+    width: 99%;
+}
+
+@media (max-width: 425px){
+
+.desktop{display: none;}
+.tablet{display: none;}
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1020px){
+
+.desktop{display: none;}
+.telefono{display: none;}
+    
+}
+
+@media (min-width: 991px){
+.telefono{display: none;}
+.tablet{display: none;}
+
+}
+.palabra1{
+  font-size: 50px;
+ letter-spacing: -5px;
+ display: flex;
+
+   }
+.A1{
+font-family: 'Lugrasimo', cursive;
+}
+
+.B1{
+font-family: 'Shadows Into Light', cursive;
+   
+}
+
+.C1{
+font-family: 'VT323', monospace;
+   
+}
+
+.D1{
+font-family: 'Ysabeau SC', sans-serif;
+   
+}
+
+.E1{
+    font-family: 'Lilita One', cursive;
+   
+}
+
+.F1{
+    font-family: 'Dancing Script', cursive;
+   
+}
+
+.donde1{
+font-family: 'Lilita One', cursive;
+
+}
+.compra1{
+    font-family: 'Shadows Into Light', cursive;
+
+}
+
+.insta1{
+  font-family: 'VT323', monospace;
+     }
+
+.nav1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.ul1 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ul1, .li1 {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.a1 {
+  color: black;
+  text-decoration: none;
+}
+
+.a1:hover {
+  color: red;
+}
+
+
+.titulo1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.dos1{
+    padding-bottom: 40px;
+    max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.dos1 img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.tres1{
+    max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.tres1 img {
+  max-width: 10%;
+  height: auto;
+}
+
+.palabra2{
+  font-size: 40px;
+ letter-spacing: -0px;
+ display: flex;
+ padding-right: 5px;
+ }
+.A2{
+font-family: 'Lugrasimo', cursive;
+
+}
+
+.B2{
+font-family: 'Shadows Into Light', cursive;
+   
+}
+
+.C2{
+font-family: 'VT323', monospace;  
+}
+
+.D2{
+font-family: 'Ysabeau SC', sans-serif;   
+}
+
+.E2{
+    
+}
+
+.F2{
+    font-family: 'Dancing Script', cursive;
+}
+
+.donde2{
+font-family: 'Lilita One', cursive;
+}
+.compra2{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.insta2{
+  font-family: 'VT323', monospace;  
+}
+
+.nav2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.logo2 {
+  height: 50px;
+  width: 50px;
+  margin-left: 5px;
+  margin-top: 5px;
+   display: flex;
+  justify-content: center;
+}
+.logo2 img {
+  max-width: 50%;
+  height: auto;
+}
+.ul2 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ul2, .li2 {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.a2 {
+  color: black;
+  text-decoration: none;
+}
+
+.a2:hover {
+  color: red;
+}
+
+.titulo2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+  height: auto;
+  padding-top: 30px;
+}
+
+.dos2{
+    padding-bottom: 10px;
+    max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.dos2 img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.tres2{
+    max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.tres2 img {
+  max-width: 10%;
+  height: auto;
+}
+
+.palabra3{
+  font-size: 40px;
+ letter-spacing: -0px;
+ display: flex;
+
+ }
+
+ .A3{
+font-family: 'Lugrasimo', cursive;
+
+}
+
+.B3{
+font-family: 'Shadows Into Light', cursive;
+   
+}
+
+.C3{
+font-family: 'VT323', monospace;  
+}
+
+.D3{
+font-family: 'Ysabeau SC', sans-serif;   
+}
+
+.E3{
+    font-family: 'Lilita One', cursive;
+}
+
+.F3{
+    font-family: 'Dancing Script', cursive;
+}
+
+.donde3{
+font-family: 'Lilita One', cursive;
+}
+.compra3{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.insta3{
+  font-family: 'VT323', monospace;  
+}

@@ -1,0 +1,397 @@
+.resolucion{
+    width: 99%;
+}
+
+@media (max-width: 743px){
+
+.desktop{display: none;}
+.tablet{display: none;}
+
+
+
+}
+
+@media (min-width: 744px) and (max-width: 990px){
+
+.desktop{display: none;}
+.telefono{display: none;}
+    
+}
+
+@media (min-width: 991px){
+.telefono{display: none;}
+.tablet{display: none;}
+
+}
+
+.palabra1{
+  font-size: 50px;
+ letter-spacing: -5px;
+ display: flex;
+ margin-top: -50px;
+   }
+.A1{
+font-family: 'Dancing Script', cursive;
+}
+.B1{
+font-family: 'Lilita One', cursive;
+   
+}
+
+.C1{
+font-family: 'Ysabeau SC', sans-serif;
+   
+}
+
+.D1{
+   font-family: 'VT323', monospace;
+}
+
+.E1{
+    
+   font-family: 'Shadows Into Light', cursive;
+}
+
+.F1{
+    
+   font-family: 'Lugrasimo', cursive;
+
+}
+
+.pa1{
+font-family: 'Shadows Into Light', cursive;
+
+}
+.compra1{
+    font-family: 'VT323', monospace;
+
+}
+
+.insta1{
+   font-family: 'Lilita One', cursive;
+
+}
+
+.nav1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+
+.ul1 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ul1, .li1 {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.a1 {
+  color: black;
+  text-decoration: none;
+}
+
+.a1:hover {
+  color: red;
+}
+
+.titulo1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+
+}
+.tres2 img {
+  display: inline-block;
+  vertical-align: middle;
+
+}
+.uno1 img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 50px;
+  
+   }
+.dos1 img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 1px;
+  margin-left: 50px;
+  }
+
+.ojo1{
+height: 100px;
+  }
+.dedo11{
+height: 280px;
+}
+.dedo21{ 
+height: 250px
+}
+.dedo31{
+height: 250px;
+}
+
+.dedo41{
+height: 280px;
+}
+
+.dedo51{
+  height: 250px;
+}
+
+.dedo81{ 
+height: 250px;
+}
+.dedo71{
+height: 250px;
+}
+
+.dedo61{
+  height: 250px;
+   margin-left: 150px;
+}
+
+
+.palabra2{
+  font-size: 30px;
+ letter-spacing: -5px;
+ display: flex;
+ margin-top: -20px;
+   }
+.A2{
+font-family: 'Dancing Script', cursive;
+}
+.B2{
+font-family: 'Lilita One', cursive;
+   
+}
+
+.C2{
+font-family: 'Ysabeau SC', sans-serif;
+   
+}
+
+.D2{
+   font-family: 'VT323', monospace;
+}
+
+.E2{
+    
+   font-family: 'Shadows Into Light', cursive;
+}
+
+.F2{
+    
+   font-family: 'Lugrasimo', cursive;
+
+}
+
+.pa2{
+font-family: 'Shadows Into Light', cursive;
+
+}
+.compra2{
+    font-family: 'VT323', monospace;
+    
+}
+
+.insta2{
+   font-family: 'Lilita One', cursive;
+   
+}
+
+.nav2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: bold;
+ font-size: 13px;
+}
+
+.logo2 {
+  height: 50px;
+  width: 50px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.ul2 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ul2, .li2 {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.a2 {
+  color: black;
+  text-decoration: none;
+}
+
+.a2:hover {
+  color: red;
+}
+
+.titulo2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+.tres2 img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 100px;
+ }
+.uno1 img {
+  display: inline-block;
+  vertical-align: middle;
+   }
+.dos1 img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 1px;
+  }
+  
+ 
+.ojo{
+height: 60px;
+margin: 3px;
+}
+
+.dedo1{
+height: 90px;
+}
+.dedo2{ 
+height: 90px;
+}
+.dedo3{
+height: 90px;
+}
+
+.dedo4{
+height: 90px;
+}
+
+.dedo5{
+  height: 80px;
+  margin-left: 10px;
+}
+
+.dedo8{ 
+height: 90px;
+}
+.dedo7{
+height: 90px;
+}
+
+.dedo6{
+  height: 100px;
+  margin-left: 10px;
+}
+
+
+
+.nav3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.logo3 {
+  height: 90px;
+  width: 90px;
+  margin-left: 1px;
+  margin-top: 1px;
+}
+
+.ul3 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ul3, .li3 {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.a3 {
+  color: black;
+  text-decoration: none;
+}
+
+.a3:hover {
+  color: red;
+}
+
+.titulo3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+.tres2 img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 100px;
+ }
+
+.uno3 img {
+  display: inline-block;
+  vertical-align: middle;
+   }
+.dos3 img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 1px;
+  }
+  .ojo3{
+height: 150px;
+  }
+.dedo13{
+height: 250px;
+}
+.dedo23{ 
+height: 250px
+}
+.dedo33{
+height: 250px;
+}
+
+.dedo43{
+height: 250px;
+}
+
+.dedo53{
+  height: 250px;
+  margin-left: 10px;
+}
+
+.dedo83{ 
+height: 250px;
+}
+.dedo73{
+height: 250px;
+}
+
+.dedo63{
+  height: 250px;
+   
+}
